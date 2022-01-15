@@ -1,0 +1,132 @@
+header{
+    height:60px;
+}
+
+ul{
+    list-style-type: none;
+    font-style: italic;
+    font-size: 15px;
+}
+
+li {
+    float: left;
+    padding-left: 25px;
+    padding-top: 0px;
+}
+.fab{
+    margin: 20px 10px;
+    text-align: right;
+}
+header{
+    border-top: 5px solid #525f95;
+    
+}
+i{
+    text-align: right;
+    padding-left: 15px;
+}
+
+.products{
+    padding-top: 0px;
+   
+    background-color: lightgrey;
+}
+.text-light{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    color: #525f95;
+}
+
+
+.card-text{
+    text-align: center;
+    font-weight: bold;
+
+
+
+}
+.item{
+    border: solid 20px lightgrey;
+    border-radius: 50px;
+    width: 500px;
+    align-content: center;
+    margin: 20px;
+}
+
+.card-body{
+    text-align: center;
+    
+}
+
+  
+  a:link, a:visited {
+    background-color: #525f95;
+    color: white;
+    padding: 14px 25px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px 10px;
+    border-radius: 10px ;
+    border: solid lightgrey;
+
+
+    
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(42, 33, 126);
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+  }
+ 
+  .items{
+      margin-top: 100px;
+      margin-left: 20px;
+     
+    }
+  .card-title{
+      text-align: center;
+      font-weight: bold;
+      font-size: 20px;
+      
+  }
+  .Go{
+      align-items: center;
+      
+      
+  }
+footer{
+    background-color: rgb(49, 61, 173);
+    margin-top: 50px;
+    border-top: double rgb(250, 249, 249);
+    border-width: 10px;
+}
+.gg{
+    text-align: center;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.rr{
+    color:white;
+    text-align: right;
+}
+.del{
+    text-decoration: line-through;
+}
+.topnav {
+    overflow:visible;
+    
+  }
+.box{
+    text-align: center;
+}
+.nn{
+    text-align: center;
+   
+}
